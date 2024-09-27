@@ -1,0 +1,41 @@
+
+html, body {
+    height: 100vh; 
+    margin: 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+h1 {
+    color: green
+}
+
+
+h2 {
+    color: red
+}
+
+
+h3 {
+    color: purple;
+    
+    
+}
+main {
+
+    
+    background-color: rgb(221, 225, 209);
+
+}
+
+
+
+.Text {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
